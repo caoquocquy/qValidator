@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'qValidator_Example' do
+  pod 'qValidator', :path => '../'
+
+  target 'qValidator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
