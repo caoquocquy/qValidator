@@ -1,5 +1,5 @@
 PODS:
-  - qValidator (0.1.0)
+  - qValidator (0.1.1)
 
 DEPENDENCIES:
   - qValidator (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  qValidator: fb9d8812be011ef174315b2d1c5f5a0a9bb37d1d
+  qValidator: 78f469918d12ce1975ffc0ebc2e6065f5be3ae4a
 
 PODFILE CHECKSUM: acbc934e9984a481811c9ea4e2373a2523145198
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.6.1
